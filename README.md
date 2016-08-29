@@ -45,16 +45,21 @@ communication with the host.
 *Figure 1: Actuator board full schematic*
 
 ![Actuator board full layout](https://github.com/RicardoStephen/Actuator_Board/blob/master/media/actuator_layout_full.jpg)
+
 *Figure 2: Actuator board full layout*
 
 ![Layout top layer](https://github.com/RicardoStephen/Actuator_Board/blob/master/media/actuator_layout_top.jpg)
+
 *Figure 3: Layout top layer*
 
 ![Layout power layer](https://github.com/RicardoStephen/Actuator_Board/blob/master/media/actuator_layout_power.jpg)
+
 *Figure 4: Layout power layer*
 
 ![Layout ground layer](https://github.com/RicardoStephen/Actuator_Board/blob/master/media/actuator_layout_ground.jpg)
+
 *Figure 5: Layout ground layer*
 
 ![Layout bottom layer](https://github.com/RicardoStephen/Actuator_Board/blob/master/media/actuator_layout_bottom.jpg)
+
 *Figure 6: Layout bottom layer*
